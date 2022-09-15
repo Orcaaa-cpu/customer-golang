@@ -1,0 +1,8 @@
+{
+    "USERNAME" : "root",
+    "PASSWORD" : "",
+    "PORT" : "3306",
+    "HOST" : "localhost",
+    "NAME" : "echo_rest"
+    
+}
